@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🏫 I'm currently student at highschool in Czech Republic
+- 🧻 My main language is C#
 <!--
 **filip-klima/filip-klima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
